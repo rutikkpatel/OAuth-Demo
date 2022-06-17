@@ -72,3 +72,9 @@ group :test do
 end
 
 gem "devise"
+
+gem "omniauth"
+gem "omniauth-facebook"
+gem "omniauth-github"
+gem "omniauth-google-oauth2"
+gem "activerecord-session_store"
